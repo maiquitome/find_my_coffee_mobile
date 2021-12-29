@@ -44,3 +44,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Esconder a chave do google
+android/app/src/main/AndroidManifest.xml
+ios/Runner/AppDelegate.swift
